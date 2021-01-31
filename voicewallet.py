@@ -9,9 +9,9 @@ from bit import PrivateKeyTestnet
 
 
 ##wallet primary (btc)
-key = PrivateKeyTestnet('93PC6j7fK4FGyHg4DVXK9f8BnektLqPmyKThDjaJDDZZFbryRNE')
+key = PrivateKeyTestnet('redacted')
 ##wallet secondary (btc)
-key2 = PrivateKeyTestnet('91uwMrzeW2iWiV8eMj6Y1P8QZhy8Lh4SuD2PQzqxmRx8KSdfbVq')
+key2 = PrivateKeyTestnet('redacted')
 
 
 # idlemovie = 'media/idle_screen.mp4'
